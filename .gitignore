@@ -1,2 +1,8 @@
 *.class
 *.log
+*.cache-main
+.project
+.classpath
+.settings/
+.worksheet/
+target/
