@@ -6,3 +6,5 @@
 .settings/
 .worksheet/
 target/
+/Output/
+/metastore_db/
